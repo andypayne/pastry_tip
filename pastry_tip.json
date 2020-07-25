@@ -1,0 +1,15 @@
+{
+    "parameterSets": {
+        "design default valuesx": {
+            "$fn": "100",
+            "inner_post_diam": "12",
+            "inner_post_overhang": "1",
+            "outer_cyl_diam": "63.12",
+            "outer_cyl_height": "23.98",
+            "shaft_hole_diam": "6",
+            "top_thickness": "5"
+        }
+    },
+    "parameterSets": "",
+    "fileFormatVersion": "1"
+}
